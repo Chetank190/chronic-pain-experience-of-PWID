@@ -1,2 +1,2 @@
-# chronic-pain-experience-of-PWID
-The purpose of this study was to describe access and use of pain medication, both opioid and non opioid, among PWID living with chronic pain followed in a long-standing community-based cohort in Montreal.
+# chronic-pain-experience-of-PWID  
+The purpose of this study is to Analyzed Electronic Medical Records (EMRs) of Montreal residents who suffer from drug abuse to predict chronic pain using different classification methods (Logistic Regression, Random Forest) and chi-squared test as a statistical hypothesis test.  
